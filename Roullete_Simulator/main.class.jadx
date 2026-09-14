@@ -1,0 +1,52 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "main.class"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources///home/cachyos/Documents/Crackmes.one/Roullete_Simulator",
+    "p:"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "Main",
+      "subPath": "0",
+      "caret": 2222,
+      "view": {
+        "x": 0,
+        "y": 243
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "/home/cachyos/Documents/Crackmes.one/Roullete_Simulator/main.class",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/main-86408971317083fe2ce8b5959f040014",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

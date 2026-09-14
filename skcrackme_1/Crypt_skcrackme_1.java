@@ -17,7 +17,6 @@ public class Crypt_skcrackme_1 {
         return encryptedByte;
     }
 
-
     public void main(String[] args){
         System.out.println("Chương trình tạo mã bí mật skcrackme_1!");
 
@@ -29,7 +28,6 @@ public class Crypt_skcrackme_1 {
             return;
         }
         System.out.println("Tên của bạn: " + name);
-        
         byte[] encryptedlayer1 = encrypt(name.getBytes(), "13377331");
         byte[] encryptedlayer2 = encrypt(encryptedlayer1, "13248657");
         System.out.println("Encrypt lớp 1: " + encryptedlayer1.toString());
@@ -48,7 +46,6 @@ public class Crypt_skcrackme_1 {
         }
 
         String recovered = result.toString();
-        
         System.out.println("Chuỗi kết quả mã hóa: " + recovered);
     }
 }
