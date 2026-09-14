@@ -1,0 +1,92 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "solvemev1.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//com/sian",
+    "p:com.sian",
+    "t:JResources//server"
+  ],
+  "codeData": {
+    "comments": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.sian.Z",
+          "shortId": "findClass(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 9
+        },
+        "comment": "tim vi tri cuoi cung xuat hien dau \".\" va cat chuoi str tu vi tri do",
+        "style": "LINE"
+      }
+    ],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.sian.Z",
+          "shortId": "findClass(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "key"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.sian.Z",
+          "shortId": "findClass(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 11
+        },
+        "newName": "value"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.sian.Z",
+      "subPath": "0",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.sian.X",
+      "subPath": "0",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/solvemev1-0bc84ee723d75ad04951ab9ae2bd9b77",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

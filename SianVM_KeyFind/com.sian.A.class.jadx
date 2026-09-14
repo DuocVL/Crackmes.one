@@ -1,0 +1,36 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "com.sian.A.class"
+  ],
+  "treeExpansionsV2": [
+    "p:com.sian"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.sian.A",
+      "subPath": "0",
+      "caret": 85,
+      "view": {
+        "x": 0,
+        "y": 1254
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/com.sian.A-8764dadbfae6002c361c0a70406192e9",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
