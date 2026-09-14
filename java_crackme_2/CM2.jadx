@@ -1,0 +1,325 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "CM2.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//I",
+    "p:I",
+    "p:"
+  ],
+  "codeData": {
+    "comments": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 100
+        },
+        "comment": "Lay byte thap nhat lam key 0x10",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "comment": "chay ngay khi load lan dau",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 62
+        },
+        "comment": "load file I.gif",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 90
+        },
+        "comment": "doc 3 byte dau tien 0x000110 \u003d 272",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "I(I)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 12
+        },
+        "comment": "Kiem tra decode",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "I(I)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 22
+        },
+        "comment": "Xu ly neu am",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "I(I)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 29
+        },
+        "comment": "0xffff | 0b1111111111111111",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "I(I)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 61
+        },
+        "comment": "buffer[i-1] \u003d leng string,\n buffer[i] la ki tu dau tien cua chuoi,\n \u0026 255 vi byte kieu signed , length unsigned",
+        "style": "BLOCK"
+      }
+    ],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "CM2",
+          "shortId": "IYOE:Ljavax/swing/JLabel;"
+        },
+        "newName": "label1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "CM2",
+          "shortId": "add:Ljavax/swing/JLabel;"
+        },
+        "newName": "label2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "CM2",
+          "shortId": "addActionListener:Ljavax/swing/JTextField;"
+        },
+        "newName": "nameField"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "CM2",
+          "shortId": "digest:Ljavax/swing/JPasswordField;"
+        },
+        "newName": "passwordField"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "I.I",
+          "shortId": "IYOE:[B"
+        },
+        "newName": "buffer"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "I.I",
+          "shortId": "getClass:[Ljava/lang/String;"
+        },
+        "newName": "cache"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "I.I",
+          "shortId": "getResourceAsStream:[I"
+        },
+        "newName": "isDecode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "CM2",
+          "shortId": "actionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 7
+        },
+        "newName": "name"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "CM2",
+          "shortId": "actionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 9
+        },
+        "newName": "password"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 17
+        },
+        "newName": "key"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 27
+        },
+        "newName": "limit"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 393216
+        },
+        "newName": "size"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458752
+        },
+        "newName": "offset"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "I.I",
+          "shortId": "I(I)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "index"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "I.I",
+      "subPath": "0",
+      "caret": 969,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "CM2",
+      "subPath": "0",
+      "caret": 2390,
+      "view": {
+        "x": 0,
+        "y": 1265
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "I/I.gif",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "I/I.class",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/CM2-20464994d93b52e5ae3351169e890187",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
