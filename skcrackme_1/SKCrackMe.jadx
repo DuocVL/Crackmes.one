@@ -1,0 +1,157 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "SKCrackMe.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JInputs//JInputFiles",
+    "p:eu.sknine.skcrackme1"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "eu.sknine.skcrackme1.KClass"
+        },
+        "newName": "KClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "eu.sknine.skcrackme1.UClass"
+        },
+        "newName": "UIClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "eu.sknine.skcrackme1.XClass"
+        },
+        "newName": "DECRYPTData"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "eu.sknine.skcrackme1.KClass",
+          "shortId": "unknown:Leu/sknine/skcrackme1/UClass;"
+        },
+        "newName": "ui"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "eu.sknine.skcrackme1.KClass",
+          "shortId": "a()V"
+        },
+        "newName": "actionButton"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "eu.sknine.skcrackme1.KClass",
+          "shortId": "a()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 22
+        },
+        "newName": "secretKey"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "eu.sknine.skcrackme1.UClass",
+          "shortId": "a()Ljavax/swing/JButton;"
+        },
+        "newName": "button"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "eu.sknine.skcrackme1.UClass",
+          "shortId": "e()Ljavax/swing/JTextField;"
+        },
+        "newName": "textField"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "eu.sknine.skcrackme1.XClass",
+          "shortId": "xmpio()[B"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "secretkKey"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "eu.sknine.skcrackme1.XClass",
+          "shortId": "xmpio()[B"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 5
+        },
+        "newName": "cipher"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "eu.sknine.skcrackme1.KClass",
+      "subPath": "0",
+      "caret": 2064,
+      "view": {
+        "x": 0,
+        "y": 771
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "eu.sknine.skcrackme1.XClass",
+      "subPath": "0",
+      "caret": 753,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "eu.sknine.skcrackme1.UClass",
+      "subPath": "0",
+      "caret": 1741,
+      "view": {
+        "x": 0,
+        "y": 1001
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/SKCrackMe-a78162e3c899e474bb847d7047ed6a33",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
