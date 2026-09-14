@@ -1,0 +1,210 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "Crack Me #1 by Luk4sapps/CrackMe#1.jar"
+  ],
+  "treeExpansionsV2": [],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "c",
+          "shortId": "a:Ljavafx/scene/control/TextField;"
+        },
+        "newName": "nameField"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "c",
+          "shortId": "b:Ljavafx/scene/control/PasswordField;"
+        },
+        "newName": "passwordFi"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "c",
+          "shortId": "c:Ljavafx/scene/control/Label;"
+        },
+        "newName": "lb"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Main",
+          "shortId": "start(Ljavafx/stage/Stage;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 7
+        },
+        "newName": "userField"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "b",
+          "shortId": "a([B)[B"
+        },
+        "newName": "hash"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "b",
+          "shortId": "b([B)[B"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65538
+        },
+        "newName": "k"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "b",
+          "shortId": "b([B)[B"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65539
+        },
+        "newName": "m"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "b",
+          "shortId": "b([B)[B"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65540
+        },
+        "newName": "n"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "b",
+          "shortId": "b([B)[B"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458752
+        },
+        "newName": "j"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "b",
+          "shortId": "b([B)[B"
+        },
+        "newName": "xor"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "META-INF/MANIFEST.MF",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "a.class",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "a",
+      "subPath": "0",
+      "caret": 92,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "Main",
+      "subPath": "0",
+      "caret": 653,
+      "view": {
+        "x": 0,
+        "y": 6
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "c",
+      "subPath": "0",
+      "caret": 21,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "b",
+      "subPath": "0",
+      "caret": 413,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/CrackMe#1-35c81872d21cdccaacfecabe065ee4a4",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
