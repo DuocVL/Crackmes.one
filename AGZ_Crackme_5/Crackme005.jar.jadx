@@ -1,0 +1,137 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "Crackme005.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//META-INF",
+    "p:I",
+    "t:JResources//I",
+    "p:agz.name.c005",
+    "t:JResources//agz/name/c005"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "append(Ljava/lang/String;)Z"
+        },
+        "newName": "checkStringToDouble"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "availableProcessors(Ljava/lang/String;)D"
+        },
+        "newName": "stringToDouble"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "decode(D)D"
+        },
+        "newName": "getInfoMachine"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "equals()Ljava/lang/String;"
+        },
+        "newName": "getInput"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "exit(I)V"
+        },
+        "newName": "data2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "getDecoder(DD)Z"
+        },
+        "newName": "isDouble"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "getRuntime(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "decodeInput"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "in()V"
+        },
+        "newName": "data"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "length(Z)V"
+        },
+        "newName": "printResult"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "main([Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "username"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c005.Crackme005",
+          "shortId": "main([Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 5
+        },
+        "newName": "number"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "agz.name.c005.Crackme005",
+      "subPath": "0",
+      "caret": 621,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/Crackme005-3139ff3873263e83e88cdb69961085ba",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

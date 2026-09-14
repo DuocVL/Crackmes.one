@@ -1,0 +1,26 @@
+Yo!!
+
+This is my fifth crackme, made in Java ofcourse and used one byte code messup stuff.
+You can patch it to get the serial and stuff like that, have fun..
+I'm more curious on things like
+
+Keygenning this, what did you do, and how. The end ain't the goal, but the road there. I don't got that skillset so I'm hoping I can learn from your thoughts and solution.
+
+If you got questions then don't hesitate to ask on my facebook site or email. If i'm not answering within 24 hours, I'm at an vacation or something like that but I WILL answer!
+
+
+
+    private static void EndScreen() {
+        System.out.println("");
+        System.out.println("Got the solution?");
+        System.out.println("ship it off to me then..");
+        System.out.println("crackme@agz.name");
+        System.out.println("https://www.agz.name");
+        System.out.println("https://www.facebook.com/AGZ.name/");
+    }
+
+
+Crackme 001 --> Hardcoded String
+Crackme 002 --> Messed up codes
+Crackme 003 --> Messed up code
+Crackme 004 --> Beat the encryption
