@@ -93,8 +93,3 @@ Mục tiêu của writeup không chỉ là tìm ra đáp án cuối cùng mà c�
 
 Qua đó xây dựng một tài liệu tham khảo cho việc học và nghiên cứu Reverse Engineering.
 
-## Disclaimer
-
-Các challenge và file trong repository được sử dụng cho mục đích **học tập, nghiên cứu và thực hành Reverse Engineering**.
-
-Chỉ phân tích và sử dụng các chương trình mà bạn có quyền phân tích hoặc được phép thực hiện.
