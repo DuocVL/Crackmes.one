@@ -1,0 +1,37 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "easycrack.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//META-INF",
+    "p:"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "Main",
+      "subPath": "0",
+      "caret": 587,
+      "view": {
+        "x": 0,
+        "y": 11
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/easycrack-4abcf8711b9e2e051ebde7409fcf3351",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
