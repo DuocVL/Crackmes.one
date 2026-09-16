@@ -1,0 +1,77 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "CM1.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:I",
+    "p:"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "CM1",
+          "shortId": "actionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 7
+        },
+        "newName": "name"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "CM1",
+          "shortId": "actionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 9
+        },
+        "newName": "serial"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "CM1",
+      "subPath": "0",
+      "caret": 313,
+      "view": {
+        "x": 0,
+        "y": 1128
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "I.I",
+      "subPath": "0",
+      "caret": 1098,
+      "view": {
+        "x": 0,
+        "y": 132
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/CM1-5ca74267deacdc99a6a3a74739ec8b1e",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
