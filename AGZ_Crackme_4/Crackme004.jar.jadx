@@ -1,0 +1,109 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "Crackme004.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:I",
+    "p:agz.name.c004"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "append(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z"
+        },
+        "newName": "compareInput"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "decode(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "encodeBase64"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "encodeToString(Z)V"
+        },
+        "newName": "printResult"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "equals(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "decodeBase64"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "getBytes()Ljava/lang/String;"
+        },
+        "newName": "getInput"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "getDecoder(I)V"
+        },
+        "newName": "printData1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "agz.name.c004.Crackme004",
+          "shortId": "getEncoder()V"
+        },
+        "newName": "printData2"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "I.I",
+      "subPath": "0",
+      "caret": 1439,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "agz.name.c004.Crackme004",
+      "subPath": "0",
+      "caret": 1182,
+      "view": {
+        "x": 0,
+        "y": 438
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/Crackme004-6808d40d7c45f3c6746f7111055f48ff",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
