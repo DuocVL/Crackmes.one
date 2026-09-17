@@ -1,0 +1,52 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "crackme.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:org.develnext.jphp.ext.javafx",
+    "t:JResources//META-INF"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "META-INF/MANIFEST.MF",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "org.develnext.jphp.ext.javafx.FXLauncher",
+      "subPath": "0",
+      "caret": 651,
+      "view": {
+        "x": 0,
+        "y": 1614
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/crackme-c9e65840f0bd9dd3f2e3d09deeac98b0",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

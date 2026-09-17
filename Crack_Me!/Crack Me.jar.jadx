@@ -1,0 +1,53 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "Crack Me.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:hu.wmcc2014.VanityLauncher",
+    "t:JResources//META-INF",
+    "p:org.eclipse.jdt.internal.jarinjarloader"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "META-INF/MANIFEST.MF",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "hu.wmcc2014.VanityLauncher.Launcher",
+      "subPath": "0",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 11682
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/Crack Me-f0bea33d44d735c5e55f98c733b416b3",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

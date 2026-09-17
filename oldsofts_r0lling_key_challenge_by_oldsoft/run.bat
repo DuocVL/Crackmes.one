@@ -1,0 +1,1 @@
+java -cp ./r0lling-challenge.jar RollingChallenge

@@ -1,0 +1,22 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "recursivebc.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//BitShifted",
+    "t:JResources//META-INF",
+    "p:BitShifted"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/recursivebc-9a8d1249444e714c2a614268a74e245a",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

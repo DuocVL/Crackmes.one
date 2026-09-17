@@ -1,0 +1,36 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "r0lling-challenge.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "RollingChallenge",
+      "subPath": "0",
+      "caret": 7901,
+      "view": {
+        "x": 0,
+        "y": 4508
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/r0lling-challenge-3a452c1498448509883065f6069d340d",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

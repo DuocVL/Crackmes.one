@@ -1,0 +1,21 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "noverify\u0027s crackme 4.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:iava.lang",
+    "p:me.nov.crackme"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/noverify\u0027s crackme 4-fcd0a8adf59f4884c696cece8043ef32",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

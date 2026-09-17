@@ -1,0 +1,36 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "ShAPK1.apk"
+  ],
+  "treeExpansionsV2": [
+    "c:com.example.shapk1.R"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.example.shapk1.MainActivity",
+      "subPath": "0",
+      "caret": 783,
+      "view": {
+        "x": 6,
+        "y": 223
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/ShAPK1-d142f5c3d694cb3a90e1af83f7a1c33d",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

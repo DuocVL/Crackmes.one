@@ -1,0 +1,139 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "CM3.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:com.vhly.crackmes.CM3",
+    "t:JResources//META-INF"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.CM3.C",
+          "shortId": "mf:Lcom/vhly/crackmes/CM3/Z;"
+        },
+        "newName": "z"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.CM3.Z",
+          "shortId": "XSOW:Ljavax/swing/JTextField;"
+        },
+        "newName": "nameField"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.CM3.Z",
+          "shortId": "add:Ljavax/swing/JPasswordField;"
+        },
+        "newName": "passfield"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.CM3.Z",
+          "shortId": "addActionListener:Ljavax/swing/JLabel;"
+        },
+        "newName": "nameLabel"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.CM3.Z",
+          "shortId": "append:Ljavax/swing/JLabel;"
+        },
+        "newName": "serialLabel"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.CM3.Z",
+          "shortId": "gc:Ljava/lang/String;"
+        },
+        "newName": "name"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.vhly.crackmes.CM3.Z",
+          "shortId": "I(Ljava/lang/String;)V"
+        },
+        "newName": "setName"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.vhly.crackmes.CM3.Z",
+      "subPath": "0",
+      "caret": 513,
+      "view": {
+        "x": 0,
+        "y": 1680
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.vhly.crackmes.CM3.Main",
+      "subPath": "0",
+      "caret": 283,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.vhly.crackmes.CM3.C",
+      "subPath": "0",
+      "caret": 234,
+      "view": {
+        "x": 0,
+        "y": 1152
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.vhly.crackmes.CM3.I",
+      "subPath": "0",
+      "caret": 150,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/CM3-ae5d327f91bb6a714de4f3b13e68a4bf",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

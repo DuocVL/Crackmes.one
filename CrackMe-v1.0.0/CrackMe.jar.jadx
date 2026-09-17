@@ -1,0 +1,36 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "CrackMe.jar"
+  ],
+  "treeExpansionsV2": [
+    "p:org.crackme"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "org.crackme.CrackMe",
+      "subPath": "0",
+      "caret": 224,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/CrackMe-8d4a92f4afe392ec8c6bb8d050a8278f",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

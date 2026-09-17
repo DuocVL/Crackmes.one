@@ -1,0 +1,72 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "crackme.jar"
+  ],
+  "treeExpansionsV2": [
+    "c:com.jguard.launcher.Launcher",
+    "p:com.jguard.loader",
+    "t:JResources//com/jguard//loader",
+    "t:JResources//com/jguard//launcher",
+    "t:JResources//crackme",
+    "t:JResources//jguard/windows-x86_64",
+    "t:JResources//META-INF"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.jguard.launcher.Launcher",
+      "subPath": "0",
+      "caret": 4311,
+      "view": {
+        "x": 0,
+        "y": 1438
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "META-INF/MANIFEST.MF",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.jguard.loader.Loader",
+      "subPath": "0",
+      "caret": 291,
+      "view": {
+        "x": 0,
+        "y": 221
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/crackme-756dc9292a3fe7ddae83d0e057e717c0",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
