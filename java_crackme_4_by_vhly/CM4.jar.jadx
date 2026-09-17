@@ -1,0 +1,74 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "CM4.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//com/vhly/crackmes/cm4",
+    "t:JResources//META-INF",
+    "p:com.vhly.crackmes.cm4"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.vhly.crackmes.cm4.Loader",
+          "shortId": "cache:Ljava/util/Hashtable;"
+        },
+        "newName": "hashTable"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.vhly.crackmes.cm4.Loader",
+          "shortId": "findClass(Ljava/lang/String;)Ljava/lang/Class;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458752
+        },
+        "newName": "nameClass"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.vhly.crackmes.cm4.Loader",
+      "subPath": "0",
+      "caret": 2371,
+      "view": {
+        "x": 0,
+        "y": 932
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "META-INF/MANIFEST.MF",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/CM4-6890d6cd7257198e844fe1600b5156d7",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
