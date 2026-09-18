@@ -1,0 +1,100 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "JCrackme#1.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//META-INF",
+    "p:"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "JCrackme",
+          "shortId": "jButton1:Ljavax/swing/JButton;"
+        },
+        "newName": "button"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "JCrackme",
+          "shortId": "jLabel1:Ljavax/swing/JLabel;"
+        },
+        "newName": "label1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "JCrackme",
+          "shortId": "jLabel2:Ljavax/swing/JLabel;"
+        },
+        "newName": "label2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "JCrackme",
+          "shortId": "jPanel1:Ljavax/swing/JPanel;"
+        },
+        "newName": "panel1"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "JCrackme",
+      "subPath": "0",
+      "caret": 5562,
+      "view": {
+        "x": 0,
+        "y": 2319
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "JCrackme$2.class",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "META-INF/MANIFEST.MF",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/JCrackme#1-6a1a82fed25a88aa55d6018f1dff340e",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
