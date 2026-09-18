@@ -4,7 +4,7 @@
     "crackme.jar"
   ],
   "treeExpansionsV2": [
-    "p:org.develnext.jphp.ext.javafx",
+    "p:org.develnext.jphp",
     "t:JResources//META-INF"
   ],
   "codeData": {
@@ -31,10 +31,40 @@
       "type": "class",
       "tabPath": "org.develnext.jphp.ext.javafx.FXLauncher",
       "subPath": "0",
-      "caret": 651,
+      "caret": 542,
       "view": {
         "x": 0,
-        "y": 1614
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "php.runtime.launcher.Launcher",
+      "subPath": "0",
+      "caret": 898,
+      "view": {
+        "x": 0,
+        "y": 420
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "php.runtime.env.CompileScope",
+      "subPath": "0",
+      "caret": 2607,
+      "view": {
+        "x": 0,
+        "y": 9584
       },
       "active": true,
       "pinned": false,
@@ -43,7 +73,7 @@
       "previewTab": false
     }
   ],
-  "cacheDir": "/home/cachyos/.cache/jadx/projects/crackme-c9e65840f0bd9dd3f2e3d09deeac98b0",
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/crackme.jar-",
   "enableLiveReload": false,
   "searchHistory": [],
   "searchResourcesFilter": "$TEXT",

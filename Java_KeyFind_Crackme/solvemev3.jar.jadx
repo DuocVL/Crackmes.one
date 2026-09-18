@@ -257,141 +257,21 @@
   "openTabs": [
     {
       "type": "class",
-      "tabPath": "lolw.goodluck.VVVWWVWWVWWWVV",
+      "tabPath": "lolw.goodluck.VVWWWVWVVVWVWW",
       "subPath": "0",
-      "caret": 176,
+      "caret": 2665,
       "view": {
         "x": 0,
         "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.VVWWWVWVVVWVWW",
-      "subPath": "0",
-      "caret": 557,
-      "view": {
-        "x": 0,
-        "y": 1526
       },
       "active": true,
       "pinned": false,
       "bookmarked": false,
       "hidden": false,
       "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.Main",
-      "subPath": "0",
-      "caret": 445,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.VWVWVVWVWWWVWW",
-      "subPath": "0",
-      "caret": 772,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.WVWVWVWVWVWVVW",
-      "subPath": "0",
-      "caret": 753,
-      "view": {
-        "x": 0,
-        "y": 118
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.VWVWVWVWWWVVWW",
-      "subPath": "0",
-      "caret": 1001,
-      "view": {
-        "x": 0,
-        "y": 198
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.WWVWVVWWVWWVVW",
-      "subPath": "0",
-      "caret": 1485,
-      "view": {
-        "x": 0,
-        "y": 130
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.WWVWVWWVVVWWWV",
-      "subPath": "0",
-      "caret": 0,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
-    },
-    {
-      "type": "class",
-      "tabPath": "lolw.goodluck.WVWVWVVVWWVWVV",
-      "subPath": "0",
-      "caret": 466,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false,
-      "previewTab": false
     }
   ],
-  "cacheDir": "/home/cachyos/.cache/jadx/projects/solvemev3-a650d7c9d31e5fc3d954fbe67d6fbfb3",
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/solvemev3.jar-",
   "enableLiveReload": false,
   "searchHistory": [],
   "searchResourcesFilter": "$TEXT",
