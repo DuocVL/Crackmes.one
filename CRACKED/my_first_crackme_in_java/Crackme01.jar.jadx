@@ -1,0 +1,140 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "Crackme01 for Java by Dark_Prince/Crackme01.jar"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//META-INF",
+    "p:"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Dark",
+          "shortId": "StrM(Ljava/lang/String;Ljava/lang/String;I)Z"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 589824
+        },
+        "newName": "country"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Dark",
+          "shortId": "StrM(Ljava/lang/String;Ljava/lang/String;I)Z"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 655360
+        },
+        "newName": "key"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Dark",
+          "shortId": "StrM(Ljava/lang/String;Ljava/lang/String;I)Z"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 720896
+        },
+        "newName": "sum"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Main",
+          "shortId": "doneActionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 5
+        },
+        "newName": "key"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Main",
+          "shortId": "doneActionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 8
+        },
+        "newName": "name"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "Main",
+          "shortId": "doneActionPerformed(Ljava/awt/event/ActionEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 589824
+        },
+        "newName": "country"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "PermutationGenerator",
+      "subPath": "0",
+      "caret": 20,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "Dark",
+      "subPath": "0",
+      "caret": 804,
+      "view": {
+        "x": 0,
+        "y": 467
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "Main",
+      "subPath": "0",
+      "caret": 2505,
+      "view": {
+        "x": 0,
+        "y": 480
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/cachyos/.cache/jadx/projects/Crackme01-b2813b12fe6fca213ef3c97fe17799fb",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
